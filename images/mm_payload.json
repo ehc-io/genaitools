@@ -1,0 +1,13 @@
+{
+  "instances": [
+    {
+      "image": {
+        "gcsUri": "gs://mm-embeddings-demo-ai-1684952810-1713820492/screenshot-20240422-23.20.19.png"
+      },
+      "text": "Vinho Tinto Seco De Martino Premium Gallardía 2019 - Chile 750ml"
+    }
+  ],
+  "parameters": {
+    "dimension": 1408
+  }
+}
